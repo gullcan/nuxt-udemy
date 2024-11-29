@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Udemy Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: fallback;
+    src: local('Udemy Sans Regular'),
+        local('UdemySans-Regular'),
+        url('../fonts/Udemy-Sans-Regular-v1.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Udemy Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: fallback;
+    src: local('Udemy Sans Bold'),
+        local('UdemySans-Bold'),
+        url('../fonts/Udemy-Sans-Bold-v1.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: SuisseWorks;
+    font-style: normal;
+    font-weight: 700;
+    font-display: fallback;
+    src: local('SuisseWorks Bold'),
+        local('SuisseWorks-Bold'),
+        url('../fonts/SuisseWorks-Bold-v1.woff2') format('woff2');
+}
+
+html {
+    font-size: 62.5% !important;
+}
+
+body {
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+}
