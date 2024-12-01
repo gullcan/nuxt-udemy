@@ -1,8 +1,8 @@
 <template>
     <footer class="footer-wrapper">
-      <!-- Üst Bölüm -->
+      
       <div class="links-and-languages">
-        <!-- Linkler -->
+       
         <div class="links-column">
           <a href="#!">Udemy Business</a>
           <a href="#!">Udemy'de Eğitim Verin</a>
@@ -31,7 +31,7 @@
         </button>
       </div>
   
-      <!-- Alt Bölüm -->
+      
       <div class="logo-and-copyright">
         <img
           src="/assets/images/logo-udemy-inverted.svg"
@@ -45,9 +45,7 @@
   </template>
   
   <script>
-  export default {
-    name: "Footer",
-  };
+  
   </script>
   
  

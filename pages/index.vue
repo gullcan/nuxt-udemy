@@ -12,13 +12,13 @@
       </div>
   
       <!-- Footer Bileşeni -->
-      <Footer />
+  
     </div>
   </template>
   
   <script setup>
   import Carousel from '/components/Carousel.vue';
-  import Footer from '/components/Footer.vue';
+ 
   </script>
   
   <style scoped>
