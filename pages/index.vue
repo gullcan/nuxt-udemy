@@ -2,7 +2,7 @@
     <div>
       <!-- Carousel Bileşeni -->
       <Carousel />
-  
+      
       <!-- Başlık ve Açıklama -->
       <div >
         <h2 class="heading-serif-xxl">İhtiyacınız olan tüm yetkinlikler tek bir yerde</h2>
@@ -10,14 +10,16 @@
           Kritik yetkinliklerden teknik konulara kadar çeşitli alanları kapsayan Udemy, profesyonel gelişiminizi destekler.
         </p>
       </div>
-  
-      <!-- Footer Bileşeni -->
+     <TrendTopics />
+      
   
     </div>
   </template>
   
   <script setup>
   import Carousel from '/components/Carousel.vue';
+  import TrendTopics from '/components/TrendTopics.vue';
+  
  
   </script>
   
