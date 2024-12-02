@@ -1,14 +1,14 @@
 <template>
-    <div>
-        <p>Login</p>
-    </div>
-    </template>
-    
-    <script setup>
-    
-    
-    </script>
-    
-    <style scoped>
-
-    </style>
+    <Login />
+  </template>
+  
+  <script>
+  import Login from '~/components/Login.vue';
+  
+  export default {
+    components: {
+      Login
+    }
+  };
+  </script>
+  

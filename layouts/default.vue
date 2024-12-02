@@ -10,6 +10,8 @@
       <slot /> <!-- Sayfaya özel içerikler burada görünecek -->
     </v-main>
 
+
+    
     <!-- Footer Bileşeni -->
     <footer>
       <Footer />
