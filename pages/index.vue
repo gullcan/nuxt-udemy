@@ -17,6 +17,8 @@
      <TrendTopics />
 
      <Partners />
+
+     <Plans />
       
   
     </div>
@@ -27,6 +29,7 @@
   import SkillsHub from '/components/SkillsHub.vue';
   import TrendTopics from '/components/TrendTopics.vue';
   import Partners from '/components/Partners.vue';
+  import Plans from '/components/Plans.vue';
   
  
   </script>
