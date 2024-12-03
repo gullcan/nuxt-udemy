@@ -1,10 +1,14 @@
 <template>
     <div>
-        <p>Udemy Business</p>
+       
+        <UdemyBusiness />
+      
     </div>
     </template>
     
     <script setup>
+        import UdemyBusiness from '/components/UdemyBusiness.vue';
+       
     
     
     </script>

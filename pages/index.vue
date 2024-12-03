@@ -14,12 +14,13 @@
       
       <!-- Başlık ve Açıklama -->
     
-     <TrendTopics />
+     
 
      <Partners />
 
      <Plans />
-      
+
+    <TrendTopics />
   
     </div>
   </template>
