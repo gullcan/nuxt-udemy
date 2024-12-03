@@ -15,6 +15,8 @@
       <!-- Başlık ve Açıklama -->
     
      <TrendTopics />
+
+     <Partners />
       
   
     </div>
@@ -24,6 +26,7 @@
   import Carousel from '/components/Carousel.vue';
   import SkillsHub from '/components/SkillsHub.vue';
   import TrendTopics from '/components/TrendTopics.vue';
+  import Partners from '/components/Partners.vue';
   
  
   </script>
